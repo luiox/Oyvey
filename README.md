@@ -1,4 +1,4 @@
-# OyVey ![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/version-v0.1.0-orange) ![](https://img.shields.io/badge/current-alpha-brightgreen)
+# OyVey ![](https://img.shields.io/badge/license-LGPL-blue) ![](https://img.shields.io/badge/version-v0.1.0-orange) ![](https://img.shields.io/badge/current-alpha-brightgreen)
 
 ----
 
